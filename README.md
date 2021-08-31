@@ -23,6 +23,10 @@ Most of this repo's core parameter and code architecture follows from
   <img src="./stylized_result/doge_015.jpg" width="200">
 </p>
 
+[Link](https://drive.google.com/drive/folders/1fETH6QCUIp4ERQ9kRyGBqlOfzEbaSGq6?usp=sharing) of Model and Config
+
+
+
 To Do List:
 - [ ] Multi-GPU Version's Code
 - [ ] User Friendly Function Call
