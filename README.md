@@ -24,9 +24,9 @@ Most of this repo's core parameter and code architecture follows from
 </p>
 
 To Do List:
-[ ] Multi-GPU Version's Code
-[ ] User Friendly Function Call
+- [ ] Multi-GPU Version's Code
+- [ ] User Friendly Function Call
 
 I want to do some extensions:
-[ ] Local Instance Normalization 
-[ ] Filter Pruning Exerise (Base on gamma*Filter's F1 Norm)
+- [ ] Local Instance Normalization 
+- [ ] Filter Pruning Exerise (Base on gamma*Filter's F1 Norm)
