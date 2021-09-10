@@ -28,7 +28,7 @@ Most of this repo's core parameter and code architecture follows from
 
 
 To Do List:
-- [ ] Multi-GPU Version's Code
+- [x] Multi-GPU Version's Code
 - [ ] User Friendly Function Call
 
 I want to do some extensions:
